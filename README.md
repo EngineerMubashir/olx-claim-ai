@@ -336,6 +336,9 @@ Source code may be provided for technical review to authorized recruiters, clien
 
 Production credentials, API keys, private client information, and sensitive configuration are not included in this repository.
 
+## Screenshots
+
+
 ## Project Link
 www.olxclaim.com
 
