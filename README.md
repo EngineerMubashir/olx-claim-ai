@@ -337,7 +337,10 @@ Source code may be provided for technical review to authorized recruiters, clien
 Production credentials, API keys, private client information, and sensitive configuration are not included in this repository.
 
 ## Screenshots
+<img width="1361" height="577" alt="olxclaim" src="https://github.com/user-attachments/assets/0e9264b1-b909-4f46-94f1-74a08e8bec2d" />
+<img width="1920" height="5812" alt="olxclaim_gallery" src="https://github.com/user-attachments/assets/c291075d-a33b-4da5-94d8-aac4a789361a" />
 
+https://youtu.be/HfesOM0kk6M?si=xlcTKbnRe182xCb8
 
 ## Project Link
 www.olxclaim.com
